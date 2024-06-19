@@ -1,0 +1,491 @@
+.fundo2-icon {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 299px;
+    height: 248px;
+    object-fit: cover;
+}
+.fundo1-icon {
+    position: absolute;
+    right: 11px;
+    bottom: 6px;
+    width: 277px;
+    height: 206px;
+    object-fit: cover;
+}
+.saldo {
+    position: absolute;
+    right: 98px;
+    bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.pontos {
+    position: absolute;
+    right: 124px;
+    bottom: 30px;
+    color: #c1c5d6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.jogos {
+    position: absolute;
+    right: 150px;
+    bottom: 30px;
+    color: #bcc1d3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8px;
+    height: 12px;
+}
+.nome {
+    position: absolute;
+    right: 206px;
+    bottom: 28px;
+    color: #c3c7d8;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 35px;
+    height: 18px;
+}
+.bandeira-icon {
+    position: absolute;
+    right: 247px;
+    bottom: 27px;
+    border-radius: 8.25px;
+    width: 19px;
+    height: 19px;
+    object-fit: cover;
+}
+.posicao {
+    position: absolute;
+    right: 272px;
+    bottom: 31px;
+    font-size: 9.5px;
+    color: #7d86aa;
+}
+.time4 {
+    position: absolute;
+    right: -13px;
+    bottom: -144px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 289px;
+    height: 59px;
+}
+.saldo1 {
+    position: absolute;
+    right: 98px;
+    bottom: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.pontos1 {
+    position: absolute;
+    right: 124px;
+    bottom: 16px;
+    color: #c1c5d6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.jogos1 {
+    position: absolute;
+    right: 150px;
+    bottom: 16px;
+    color: #bcc1d3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8px;
+    height: 12px;
+}
+.nome1 {
+    position: absolute;
+    right: 193px;
+    bottom: 14px;
+    color: #c1c5d7;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 48px;
+    height: 15px;
+}
+.bandeira-icon1 {
+    position: absolute;
+    right: 247px;
+    bottom: 11px;
+    border-radius: 9.25px;
+    width: 19px;
+    height: 19px;
+    object-fit: cover;
+}
+.posicao1 {
+    position: absolute;
+    right: 272px;
+    bottom: 17px;
+    font-size: 10px;
+    color: #7d86aa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 7px;
+    height: 10px;
+}
+.time3 {
+    position: absolute;
+    right: -13px;
+    bottom: -87px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 289px;
+    height: 44px;
+}
+.saldo2 {
+    position: absolute;
+    right: 95px;
+    bottom: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.pontos2 {
+    position: absolute;
+    right: 121px;
+    bottom: 18px;
+    color: #c1c5d6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.jogos2 {
+    position: absolute;
+    right: 147px;
+    bottom: 18px;
+    font-size: 11.5px;
+    color: #bcc1d3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8px;
+    height: 12px;
+}
+.nome2 {
+    position: absolute;
+    right: 190px;
+    bottom: 14px;
+    color: #d2d5e1;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 47px;
+    height: 17px;
+}
+.bandeira-icon2 {
+    position: absolute;
+    right: 243px;
+    bottom: 13px;
+    border-radius: 9.25px;
+    width: 19px;
+    height: 19px;
+    object-fit: cover;
+}
+.posio {
+    position: absolute;
+    right: 268px;
+    bottom: 18px;
+    font-size: 9.5px;
+    color: #6f78a1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 7px;
+    height: 10px;
+}
+.time2 {
+    position: absolute;
+    right: -9px;
+    bottom: -45px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 284px;
+    height: 45px;
+}
+.saldo3 {
+    position: absolute;
+    right: 90px;
+    bottom: 13px;
+    color: #c9cddc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 13px;
+}
+.pontos3 {
+    position: absolute;
+    right: 116px;
+    bottom: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.jogos3 {
+    position: absolute;
+    right: 139px;
+    bottom: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9px;
+    height: 12px;
+}
+.nome3 {
+    position: absolute;
+    right: 169px;
+    bottom: 11px;
+    color: #c4c8d8;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 61px;
+    height: 18px;
+}
+.bandeira-icon3 {
+    position: absolute;
+    right: 236px;
+    bottom: 9px;
+    border-radius: 9.25px;
+    width: 19px;
+    height: 19px;
+    object-fit: cover;
+}
+.posio1 {
+    position: absolute;
+    right: 263px;
+    bottom: 14px;
+    font-size: 9.5px;
+    color: #65709b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5px;
+    height: 10px;
+}
+.time1 {
+    position: absolute;
+    right: -2px;
+    bottom: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 279px;
+    height: 35px;
+    color: #b6bbcf;
+}
+.partida1 {
+    display: flex;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 379px;
+    height: 15px;
+    color: #b6bbcf;
+}
+.times {
+    position: absolute;
+    right: 13px;
+    bottom: 149px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 275px;
+    height: 53px;
+}
+.pontos4 {
+    position: absolute;
+    right: 61px;
+    bottom: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 9px;
+}
+.jogos4 {
+    position: absolute;
+    right: 86px;
+    bottom: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 9px;
+}
+.saldo4 {
+    position: absolute;
+    right: 36px;
+    bottom: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 9px;
+}
+.titulos {
+    position: absolute;
+    right: 62px;
+    bottom: 178px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 279px;
+    height: 35px;
+    font-size: 8px;
+    color: #838bae;
+}
+.background-icon {
+    position: absolute;
+    right: 10px;
+    bottom: 210px;
+    width: 278px;
+    height: 38px;
+    object-fit: cover;
+}
+.verdetalhe {
+    position: absolute;
+    right: 25px;
+    bottom: 10px;
+    display: flex;
+    align-items: center;
+    width: 68px;
+}
+.grupo-a {
+    position: absolute;
+    right: 209px;
+    bottom: 7px;
+    font-size: 14.5px;
+    color: #d9dbe6;
+    display: flex;
+    align-items: center;
+    width: 65px;
+}
+.cabecalho {
+    position: absolute;
+    right: 0px;
+    bottom: 217px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 92px;
+    height: 231px;
+    text-align: left;
+    font-size: 11.5px;
+    color: #c29a4f;
+}
+.grupoa {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 248px;
+}
+.banner {
+    width: 300px;
+    height: 90px;
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 250px;
+    overflow: hidden;
+ 
+}
+.modelo-grupo {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 77px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 250px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #dee0e9;
+    font-family: Inter;
+}
+.modelo-grupo2 {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 325px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 248px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #dee0e9;
+    font-family: Inter;
+}
+.modelo-grupo3 {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 570px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 248px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #dee0e9;
+    font-family: Inter;
+}
+.modelo-grupo4 {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 815px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 248px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #dee0e9;
+    font-family: Inter;
+}
+.modelo-grupo5 {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 1060px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 248px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #dee0e9;
+    font-family: Inter;
+}
+.modelo-grupo6 {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 1305px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 248px;
+    overflow: hidden;
+    font-size: 12px;
+    color: #dee0e9;
+    font-family: Inter;
+}
