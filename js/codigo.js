@@ -1,5 +1,6 @@
 // variaveis globais - carga de todas as selecoes
 // primeiro teste apenas grupo A
+// mas dveremos cadastrar todas as selecoes conforme exemplo...
 let times = [
     { nome: "Alemanha", ranking: 1647.52, forca: 0, grupo: "A" },
     { nome: "Escocia", ranking: 1461.55, forca: 0, grupo: "A" },
