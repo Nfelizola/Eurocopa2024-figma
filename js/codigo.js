@@ -6,6 +6,32 @@ let times = [
     { nome: "Escocia", ranking: 1461.55, forca: 0, grupo: "A" },
     { nome: "Hungria", ranking: 1537.65, forca: 0, grupo: "A" },
     { nome: "suiça", ranking: 1593.49,forca: 0, grupo: "A" },
+
+    { nome: "Espanha", ranking: 1715.22, forca: 0, grupo: "B" },
+    { nome: "Croácia", ranking: 1704.23, forca: 0, grupo: "B" },
+    { nome: "Itália", ranking: 1713.66, forca: 0, grupo: "B" },
+    { nome: "Albânia", ranking: 1351.53,forca: 0, grupo: "A" },
+
+    { nome: "Eslovênia", ranking: 1427.84, forca: 0, grupo: "C" },
+    { nome: "Dinamarca", ranking: 1602.72, forca: 0, grupo: "C" },
+    { nome: "Sérvia", ranking: 1496.53, forca: 0, grupo: "C" },
+    { nome: "Inglaterra", ranking: 1794.01,forca: 0, grupo: "C" },
+
+    { nome: "Países Baixos", ranking: 1731.13, forca: 0, grupo: "D" },
+    { nome: "França", ranking: 1840.59, forca: 0, grupo: "D" },
+    { nome: "Polônia", ranking: 1534.66, forca: 0, grupo: "D" },
+    { nome: "Áustria", ranking: 1546.12,forca: 0, grupo: "D" },
+
+    { nome: "Romênia", ranking: 1433.71, forca: 0, grupo: "E" },
+    { nome: "Bélgica", ranking: 1795.23, forca: 0, grupo: "E" },
+    { nome: "Eslováquia", ranking: 1427.84, forca: 0, grupo: "E" },
+    { nome: "Ucrânia", ranking: 1561.95,forca: 0, grupo: "E" },
+
+    { nome: "Portugal", ranking: 17433.71, forca: 0, grupo: "F" },
+    { nome: "Chéquia", ranking: 1482.12, forca: 0, grupo: "F" },
+    { nome: "Geórgia", ranking: 1287.43, forca: 0, grupo: "F" },
+    { nome: "Turquia", ranking: 1457.92,forca: 0, grupo: "F" },
+    
 ];
 let gola=0;
 let golb=0;
