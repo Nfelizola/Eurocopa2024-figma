@@ -61,8 +61,9 @@ function partida(a,b) {
         // aplicando regra definida
        // Fórmula seria:  (força * D10)+(sorte(D10)*dia(D2))
      let resultadoa, resultadob;
-     resultadoa = (times[a].forca*D(10))+(D(10)*D(2));
-    resultadob = (times[b].forca*D(10))+(D(10)*D(2));
+        // formula simplificada, menos sorte e mais ranking
+     resultadoa = (times[a].forca*D(6))+(D(6)*D(2));
+    resultadob = (times[b].forca*D(6))+(D(6)*D(2));
     //console.log(times[a].nome + "Fez: "+ resultadoa);
     //console.log(times[b].nome + "Fez: "+resultadob);
    let mensagem="";
